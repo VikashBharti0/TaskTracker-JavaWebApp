@@ -34,20 +34,20 @@ TaskTracker is a full-stack **Java web application** that allows users to regist
 TaskTracker-JavaWebApp/ <br>
 ├── src/ <br>
 │ └── todo/ <br>
-│ ├── controller/ # Servlets
-│ ├── DAO/ # Data Access Objects
-│ ├── Entity/ # POJOs
-├── WebContent/
-│ ├── CSS/ # Stylesheets
-│ ├── image/ # UI Images
-│ ├── *.jsp # JSP Pages
-├── .gitignore
-├── README.md
-├── DBUtil.java # Database connection utility
-└── (Optional) pom.xml # If using Maven
+│ ├── controller/ # Servlets  <br>
+│ ├── DAO/ # Data Access Objects  <br>
+│ ├── Entity/ # POJOs  <br>
+├── WebContent/  <br>
+│ ├── CSS/ # Stylesheets  <br>
+│ ├── image/ # UI Images  <br>
+│ ├── *.jsp # JSP Pages  <br>
+├── .gitignore  <br>
+├── README.md  <br>
+├── DBUtil.java # Database connection utility  <br>
+└── (Optional) pom.xml # If using Maven  <br>
 
 yaml
-Copy code
+
 
 ---
 
