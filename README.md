@@ -50,12 +50,19 @@ TaskTracker-JavaWebApp/ <br>
 
 ## 📸 Screenshots
 
-> *(You can add actual screenshots here for better impact)*
-![Dashboard Page]
+> 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7bbad3fd-800c-477f-9342-57bf11476838" />
-![Register Page] 
+[Dashboard Page]
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/747941c8-4eec-4ff3-be6a-d2547fabcd40" />
-
+[Register Page]
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/75b9ec02-1b75-4cd1-b81b-f4d4a4f20387" />
+[Login Page]
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c64a9a8e-c7ec-4789-a88c-a58392a9d798" />
+[TODO Page]
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/000e90ac-a173-4af3-b7db-1a3afd2bbc1f" />
+[Update Page]
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7fe74cb2-5402-484b-b901-eabdc88ea2cb" />
+[Add todo Page]
 ---
 
 ## ⚙️ How to Run
