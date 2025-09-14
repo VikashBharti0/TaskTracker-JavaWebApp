@@ -31,9 +31,9 @@ TaskTracker is a full-stack **Java web application** that allows users to regist
 
 ## 📁 Project Structure
 
-TaskTracker-JavaWebApp/
-├── src/
-│ └── todo/
+TaskTracker-JavaWebApp/ <br>
+├── src/ <br>
+│ └── todo/ <br>
 │ ├── controller/ # Servlets
 │ ├── DAO/ # Data Access Objects
 │ ├── Entity/ # POJOs
