@@ -51,10 +51,10 @@ TaskTracker-JavaWebApp/ <br>
 ## 📸 Screenshots
 
 > *(You can add actual screenshots here for better impact)*
-
+![Dashboard Page]
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/7bbad3fd-800c-477f-9342-57bf11476838" />
-![Login Page](screenshots/login.png)  
-
+![Register Page] 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/747941c8-4eec-4ff3-be6a-d2547fabcd40" />
 
 ---
 
