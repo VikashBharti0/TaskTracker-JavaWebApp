@@ -1,0 +1,56 @@
+body{
+	 background-image: url('login.jpg');
+	background-size: 100% 100% ;
+	
+	
+
+	
+}
+.containerB{
+	color:white;
+	border-radius:15px;
+	margin-top:100px;
+	margin-left:150px;
+	padding:40px 30px;
+	text-align:center;
+	backdrop-filter:blur(20px);
+	background-color:rgba(255,255,255,0.1);
+	height:500px;
+	width:400px
+	
+}
+h2{
+	font-size:30px;
+}
+input{
+	width:250px;
+	padding:8px 10px;
+	margin-top:15px;
+	border-radius:7px;
+	
+}
+.agree{
+	width:20px;
+	background-color:red;
+	display:linline-block;
+}
+.ch{
+	
+	margin-right:25px;
+	margin-top:13px;
+}
+.co>button{
+	width:250px;
+	padding:6px 10px;
+	border-radius:10px;
+	background-color:blue;
+	color:white;
+}
+.alreadyAcc{
+	margin-top:20px;
+	font-size:13px;
+}
+#loginCon{
+	margin-top:100px;
+	height:400px;
+}
