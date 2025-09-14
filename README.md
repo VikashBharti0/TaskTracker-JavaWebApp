@@ -82,11 +82,7 @@ Configure DB credentials in DBUtil.java
 
 Deploy the project to Apache Tomcat
 
-Access the app:
 
-arduino
-Copy code
-http://localhost:8080/TaskTracker-JavaWebApp/
 🧠 Learnings & Highlights
 Built full-stack CRUD operations using pure Java Servlet-JSP
 
