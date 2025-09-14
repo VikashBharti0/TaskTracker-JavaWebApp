@@ -96,12 +96,10 @@ Learned DB integration with PostgreSQL using JDBC
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
-📜 License
-This project is licensed under the MIT License.
 
 🔗 Connect with Me
-🔗 LinkedIn
+🔗 https://www.linkedin.com/in/vikash-kumar-bharti-44699b294/
 
-🐦 Twitter / X
+🐦[ Twitter / X](https://x.com/Vikash__Bharti)
 
-💼 Portfolio (optional)
+
